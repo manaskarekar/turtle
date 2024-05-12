@@ -9,3 +9,6 @@ A basic shell
 - Support for displaying errors and error codes.
 - A basic tokenizer to handle quotes and whitespaces.
 
+
+Currently only tested on linux. 
+Simply `cargo run` to run it.
